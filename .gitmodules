@@ -1,0 +1,9 @@
+[submodule "Encode-AI-Team-32-FW-Blockchain"]
+	path = Encode-AI-Team-32-FW-Blockchain
+	url = https://github.com/javiermontescarrera/Encode-AI-Team-32-FW-Blockchain.git
+[submodule "Encode-AI-Team-32-FW-Backend"]
+	path = Encode-AI-Team-32-FW-Backend
+	url = https://github.com/javiermontescarrera/Encode-AI-Team-32-FW-Backend.git
+[submodule "Encode-AI-Team-32-FW-Frontend"]
+	path = Encode-AI-Team-32-FW-Frontend
+	url = https://github.com/javiermontescarrera/Encode-AI-Team-32-FW-Frontend.git
